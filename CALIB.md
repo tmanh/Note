@@ -13,7 +13,7 @@ This is a collection of papers and resources I curated about Camera Calibration.
 
 
 ## Auto-calibration
-
+[Surveillance Camera Autocalibration based on Pedestrian Height Distributions](http://www.bmva.org/bmvc/2011/proceedings/paper117/paper117.pdf) - Liu, J., Collins, R., & Liu, Y. (BMVC 2011)
 
 # Others
 - [Trifocal tensor](https://en.wikipedia.org/wiki/Trifocal_tensor)
